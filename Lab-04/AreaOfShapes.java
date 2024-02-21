@@ -1,3 +1,4 @@
+// Area of shapes program
 import java.util.*;
 abstract class Shape {    
     public int x,y;
