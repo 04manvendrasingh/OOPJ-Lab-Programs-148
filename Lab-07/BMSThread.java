@@ -1,3 +1,4 @@
+//Thread Program
 class NewThread implements Runnable
 { Thread t;
    NewThread()
