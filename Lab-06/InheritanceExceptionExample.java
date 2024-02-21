@@ -1,3 +1,4 @@
+//Inheritance Program
 import java.util.Scanner;
 
 class WrongAge extends Exception {
